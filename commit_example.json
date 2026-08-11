@@ -1,0 +1,21 @@
+{
+    "author":"exampleAuthor",
+    "description":"exampleDescription",
+    "commit":{
+        "addFiles":[
+            {
+                "path":"examplePath",
+                "content":"exampleContent"
+            }
+        ],
+        "removeFiles":[
+            "examplePath"
+        ],
+        "downloads":[
+            {
+                "path":"examplePath",
+                "url":"exampleUrl"
+            }
+        ]
+    }
+}
